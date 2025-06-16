@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi There👋, I'm Manjula</h1>
 
-<!--
-**manjula-229/manjula-229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻: I am proficient in **Java, SQL, HTML, CSS**
 
-Here are some ideas to get you started:
+- 🌱: I’m currently learning **React & Node.js & DSA with Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻: Interested at **Full Stack Development**
+
+- 🧠: Exploring **DevOps & Cloud**
+
+- 📄: To Know More about look at **https://drive.google.com/file/d/1IBBTv9fHF7FcXxg4ZsSaPRpq6sugIwdB/view?usp=sharing**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
