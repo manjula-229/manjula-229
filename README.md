@@ -8,8 +8,6 @@
 
 - 🧠: Exploring **DevOps & Cloud**
 
-- 📄: To Know More about look at **https://drive.google.com/file/d/1r8rQnfLduQXEwIQ-Rdr-n8dOrpB8VpRc/view?usp=sharing**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
